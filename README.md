@@ -19,3 +19,6 @@ https://github.com/Xstar97/AppScriptBasics/blob/main/youtube/YouTubeLikes.gs
 
 do a quick read and some minor edits if you need beforehand...
 most of the variables are situated at the top.
+once done and excuted, refresh page and viola the title changed and has added this.(the view counter had been removed)
+
+![likes counter](https://github.com/Xstar97/AppScriptBasics/blob/a112ed56ebeb9d64803e55af9348aff722797fcb/youtube/likes%20and%20dislikes.png?raw=true)
