@@ -10,7 +10,7 @@ if youre a creator and want to show your viewers the count then try this awesome
 
 checkout one of my [latest streams](https://www.youtube.com/watch?v=zQO1cJDwqF8&t=3717s) thats gets triggered every 5 mins.
 
-as long as you own the video and channel, you can the likes and dislikes counter on any video.
+as long as you own the video and channel, you can titled the likes and dislikes counter on any video.
 
 open a tab and copy the contents of the script into a new project on www.script.google.com
 
