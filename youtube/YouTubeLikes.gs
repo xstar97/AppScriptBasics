@@ -88,7 +88,7 @@ const updateAllVideosByTrigger = (e = null) => {
     if (triggers.length === 0) {
       ScriptApp.newTrigger(triggerName).timeBased().everyDays(1).create();
     }
-    updateLatestVideo();
+    updateAllVideos();
 };
 
 /**
