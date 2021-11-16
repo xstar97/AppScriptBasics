@@ -16,8 +16,12 @@ open a tab and copy the contents of the script into a new project on www.script.
 
 [youtubeLikes.gs](https://github.com/Xstar97/AppScriptBasics/blob/main/youtube/YouTubeLikes.gs)
 
+go to services section and add youtube data v3
+
 do a quick read and some minor edits if you need to before executing it...
 most of the variables are situated at the top.
-once done and excuted, refresh page and viola the title changed and has added this.(the view counter had been removed)
+once done and excuted, google will ask you to auth the script so make sure to use the 
+google account that runs the channel...so be advised that brand google accounts do not work 
+with app script at all. Refresh the page and viola the title changed and has added this.(the view counter had been removed)
 
 ![likes counter](https://github.com/Xstar97/AppScriptBasics/blob/a112ed56ebeb9d64803e55af9348aff722797fcb/youtube/likes%20and%20dislikes.png?raw=true)
