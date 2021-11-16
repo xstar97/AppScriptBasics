@@ -135,15 +135,12 @@ function _getTitle(old, likeCount, dislikeCount){
   var newT = "";
   if(old.includes(`${LIKECNT}`)){//+VWCNT
     newT = old.replace(`${LIKECNT}`, likeCount).replace(`${DISLIKECNT}`, dislikeCount);
-    console.info("1")
   } else if(!old.includes(templateLikes)){
     newT =`${old.split(`| ${LIKE}:`)[0]} ${templateLikes.replace(`${LIKECNT}`, likeCount).replace(`${DISLIKECNT}`, dislikeCount)}`;
-    console.info("2")
   } else{
     var newT2 = old.split(`| ${LIKECNT}:`)[0];
     var newT3 =newT2+templateLikes;
     newT =newT3.replace(`${LIKECNT}`, likeCount).replace(`${DISLIKECNT}`, dislikeCount);
-    console.info("3")
   }
   return newT;
 }
